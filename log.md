@@ -8,4 +8,11 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-[Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: August 27, 2018
+
+**Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
+
+**Thoughts:** Completed next two sections: Applied Visual Design & Applied Accessibility. I completed 144 of 1408 coding challenges in the website. :D
+
+**Link to work:** Sign up here(https://learn.freecodecamp.org/)
