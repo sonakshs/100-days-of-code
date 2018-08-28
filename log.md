@@ -21,6 +21,6 @@
 
 **Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
 
-**Thoughts:** Completed next section: Responsive Web Design Principles. I completed 144 of 1408 coding challenges in the website. :D
+**Thoughts:** Completed next section: Responsive Web Design Principles. I completed 148 of 1408 coding challenges in the website. :D
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
