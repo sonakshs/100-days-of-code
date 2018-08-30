@@ -24,3 +24,19 @@
 **Thoughts:** Completed next section: Responsive Web Design Principles. I completed 148 of 1408 coding challenges in the website. :D
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
+
+### Day 3: August 28, 2018
+
+**Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
+
+**Thoughts:** Completed next section: CSS Flexbox. I completed 160 of 1408 coding challenges in the website. :D
+
+**Link to work:** Sign up here(https://learn.freecodecamp.org/)
+
+### Day 4: August 29, 2018
+
+**Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
+
+**Thoughts:** Completed next section: CSS Grid. I completed 187 of 1408 coding challenges in the website. :D
+
+**Link to work:** Sign up here(https://learn.freecodecamp.org/)
