@@ -41,10 +41,16 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-### Day 4: August 29, 2018
+### Day 5: August 30, 2018
 
 **Today's Progress**: Big day! Completed freeCodeCamp's Frontend Certification(Responsive Web Design Projects)
 
-**Thoughts:** Completed the projects: I completed 193 of 1408 coding challenges and 5 out of 30 Projectsin the website. :D
+**Thoughts:** Completed the projects: I completed 213 of 1408 coding challenges and 5 out of 30 Projectsin the website. :D
+
+**Link to work:** Certificate(https://www.freecodecamp.org/certification/fcc79500560-5e55-4c72-a1f6-2aa45bfa6dae/responsive-web-design)
+
+### Day 6: August 31, 2018
+
+**Today's Progress**: completed 213 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:** Certificate(https://www.freecodecamp.org/certification/fcc79500560-5e55-4c72-a1f6-2aa45bfa6dae/responsive-web-design)
