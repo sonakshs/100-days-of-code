@@ -54,3 +54,9 @@
 **Today's Progress**: completed 213 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:** Certificate(https://www.freecodecamp.org/certification/fcc79500560-5e55-4c72-a1f6-2aa45bfa6dae/responsive-web-design)
+
+### Day 7: September 1, 2018
+
+**Today's Progress**: completed 256 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
