@@ -60,3 +60,9 @@
 **Today's Progress**: completed 256 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 8: September 3, 2018
+
+**Today's Progress**: Completed Basic Javascript. completed 300 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
