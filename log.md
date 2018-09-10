@@ -17,7 +17,7 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-### Day 2: August 27, 2018
+### Day 2: August 28, 2018
 
 **Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
 
@@ -25,7 +25,7 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-### Day 3: August 28, 2018
+### Day 3: August 29, 2018
 
 **Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
 
@@ -33,7 +33,7 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-### Day 4: August 29, 2018
+### Day 4: August 30, 2018
 
 **Today's Progress**: Proceeded with freeCodeCamp's Frontend Certification
 
@@ -41,7 +41,7 @@
 
 **Link to work:** Sign up here(https://learn.freecodecamp.org/)
 
-### Day 5: August 30, 2018
+### Day 5: August 31, 2018
 
 **Today's Progress**: Big day! Completed freeCodeCamp's Frontend Certification(Responsive Web Design Projects)
 
@@ -49,26 +49,44 @@
 
 **Link to work:** Certificate(https://www.freecodecamp.org/certification/fcc79500560-5e55-4c72-a1f6-2aa45bfa6dae/responsive-web-design)
 
-### Day 6: August 31, 2018
+### Day 6: September 1, 2018
 
 **Today's Progress**: completed 213 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:** Certificate(https://www.freecodecamp.org/certification/fcc79500560-5e55-4c72-a1f6-2aa45bfa6dae/responsive-web-design)
 
-### Day 7: September 1, 2018
+### Day 7: September 3, 2018
 
 **Today's Progress**: completed 256 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
 
-### Day 8: September 3, 2018
+### Day 8: September 4, 2018
 
 **Today's Progress**: completed 275 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
 
-### Day 9: September 4, 2018
+### Day 9: September 5, 2018
 
 **Today's Progress**: Completed Basic Javascript. completed 300 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 10: September 6, 2018
+
+**Today's Progress**: completed 310 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 11: September 7, 2018
+
+**Today's Progress**: completed 314 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 12: September 8, 2018
+
+**Today's Progress**: Completed ES6 Challenge. completed 327 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
