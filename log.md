@@ -90,3 +90,15 @@
 **Today's Progress**: Completed ES6 Challenge. completed 327 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 13: September 10, 2018
+
+**Today's Progress**: completed 339 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 14: September 11, 2018
+
+**Today's Progress**: Completed Regular Expressions, Debugging and Basic Data Structures. completed 391 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
