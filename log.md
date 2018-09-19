@@ -116,7 +116,7 @@
 
 ### Day 17: September 14, 2018
 
-**Today's Progress**: completed 314 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+**Today's Progress**: completed 416 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
 
