@@ -99,6 +99,41 @@
 
 ### Day 14: September 11, 2018
 
-**Today's Progress**: Completed Regular Expressions, Debugging and Basic Data Structures. completed 391 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+**Today's Progress**: Completed 360 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+### Day 15: September 12, 2018
+
+**Today's Progress**: Completed 391 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 16: September 13, 2018
+
+**Today's Progress**: completed 410 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 17: September 14, 2018
+
+**Today's Progress**: completed 314 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 18: September 15, 2018
+
+**Today's Progress**: Completed ES6 Challenge. completed 427 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 19: September 17, 2018
+
+**Today's Progress**: completed 439 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 20: September 18, 2018
+
+**Today's Progress**: Completed Basic Algorithm Scripting and Object Oriented Programming. completed 463 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
