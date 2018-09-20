@@ -137,3 +137,9 @@
 **Today's Progress**: Completed Basic Algorithm Scripting and Object Oriented Programming. completed 463 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 21: September 18, 2018
+
+**Today's Progress**: Completed Functional Programming. completed 475 of 1408 coding challenges. built 5 out of 30 projects. earned 1 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
