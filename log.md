@@ -207,6 +207,42 @@
 
 ### Day 32: October 2, 2018
 
-**Today's Progress**: Completed React-Redux challenges. completed 590 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+**Today's Progress**: Completed 590 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 33: October 3, 2018
+
+**Today's Progress**: Completed 600 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 34: October 4, 2018
+
+**Today's Progress**: Completed 608 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 35: October 5, 2018
+
+**Today's Progress**: Completed 613 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 36: October 6, 2018
+
+**Today's Progress**: Completed 621 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 37: October 7, 2018
+
+**Today's Progress**: Completed 626 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
+
+**Link to work:**  Sign up here(https://learn.freecodecamp.org/)
+
+### Day 38: October 9, 2018
+
+**Today's Progress**: Completed 632 of 1408 coding challenges. built 10 out of 30 projects. earned 2 out of 6 certifications.
 
 **Link to work:**  Sign up here(https://learn.freecodecamp.org/)
